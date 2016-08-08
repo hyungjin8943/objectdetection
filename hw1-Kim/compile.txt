@@ -1,0 +1,10 @@
+/**
+Name; Hyung Jin Kim 
+how to compile the program.
+**/
+
+
+
+
+g++ -o hw1.out hw1.cpp
+hw1.out 
